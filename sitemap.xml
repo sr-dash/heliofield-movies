@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+ <url>
+  <loc>https://sr-dash.github.io/heliofield-movies/</loc>
+  <lastmod>2026-11-04</lastmod>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia94.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 94 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 94 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia94.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia131.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 131 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 131 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia131.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia171.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 171 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 171 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia171.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia193.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 193 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 193 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia193.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia211.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 211 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 211 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia211.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia304.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 304 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 304 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia304.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia335.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 335 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 335 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia335.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia1600.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 1600 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 1600 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia1600.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/hmi.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: HMI magnetogram</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: HMI magnetogram.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/hmi.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/euvi_a.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: STEREO-A EUVI 195 Å</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: STEREO-A EUVI 195 Å.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/euvi_a.mp4</video:content_loc>
+   <video:duration>35</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/all.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: all panels</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: every panel on one canvas, with the sunspot number.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/all.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia94.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 94 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 94 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia94.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia131.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 131 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 131 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia131.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia171.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 171 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 171 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia171.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia193.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 193 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 193 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia193.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia211.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 211 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 211 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia211.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia304.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 304 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 304 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia304.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia335.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 335 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 335 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia335.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/aia1600.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: AIA 1600 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: AIA 1600 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/aia1600.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/hmi.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: HMI magnetogram with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: HMI magnetogram, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/hmi.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/euvi_a.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: STEREO-A EUVI 195 Å with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: STEREO-A EUVI 195 Å, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/euvi_a.lines.mp4</video:content_loc>
+   <video:duration>35</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+  <video:video>
+   <video:thumbnail_loc>https://sr-dash.github.io/heliofield-movies/all.lines.jpg</video:thumbnail_loc>
+   <video:title>The Sun since 2010: all panels with field lines</video:title>
+   <video:description>The Sun from 2010 to 2026, one Carrington rotation per frame: every panel on one canvas, with the sunspot number, with HelioField PFSS field lines.</video:description>
+   <video:content_loc>https://sr-dash.github.io/heliofield-movies/all.lines.mp4</video:content_loc>
+   <video:duration>37</video:duration>
+   <video:publication_date>2026-11-04T09:23:00Z</video:publication_date>
+   <video:family_friendly>yes</video:family_friendly>
+  </video:video>
+ </url>
+</urlset>

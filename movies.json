@@ -1,0 +1,255 @@
+{
+ "made": "2026-11-04T09:23Z",
+ "fps": 6,
+ "first": "2010-05-06",
+ "last": "2026-11-02",
+ "rotations": [
+  2096,
+  2317
+ ],
+ "credit": "Images: NASA/SDO and the AIA and HMI science teams; NASA STEREO/SECCHI.  Field: HelioField PFSS from HMI rotation maps.  Sunspot number: WDC-SILSO, Royal Observatory of Belgium.",
+ "movies": [
+  {
+   "id": "aia94",
+   "name": "AIA 94 \u00c5",
+   "lines": false,
+   "file": "aia94.mp4",
+   "poster": "aia94.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 12002204
+  },
+  {
+   "id": "aia131",
+   "name": "AIA 131 \u00c5",
+   "lines": false,
+   "file": "aia131.mp4",
+   "poster": "aia131.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 7847127
+  },
+  {
+   "id": "aia171",
+   "name": "AIA 171 \u00c5",
+   "lines": false,
+   "file": "aia171.mp4",
+   "poster": "aia171.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 4298065
+  },
+  {
+   "id": "aia193",
+   "name": "AIA 193 \u00c5",
+   "lines": false,
+   "file": "aia193.mp4",
+   "poster": "aia193.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 2753926
+  },
+  {
+   "id": "aia211",
+   "name": "AIA 211 \u00c5",
+   "lines": false,
+   "file": "aia211.mp4",
+   "poster": "aia211.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 2614918
+  },
+  {
+   "id": "aia304",
+   "name": "AIA 304 \u00c5",
+   "lines": false,
+   "file": "aia304.mp4",
+   "poster": "aia304.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 7534397
+  },
+  {
+   "id": "aia335",
+   "name": "AIA 335 \u00c5",
+   "lines": false,
+   "file": "aia335.mp4",
+   "poster": "aia335.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 10946039
+  },
+  {
+   "id": "aia1600",
+   "name": "AIA 1600 \u00c5",
+   "lines": false,
+   "file": "aia1600.mp4",
+   "poster": "aia1600.jpg",
+   "frames": 220,
+   "width": 768,
+   "height": 816,
+   "bytes": 3749147
+  },
+  {
+   "id": "hmi",
+   "name": "HMI magnetogram",
+   "lines": false,
+   "file": "hmi.mp4",
+   "poster": "hmi.jpg",
+   "frames": 222,
+   "width": 768,
+   "height": 816,
+   "bytes": 3062244
+  },
+  {
+   "id": "euvi_a",
+   "name": "STEREO-A EUVI 195 \u00c5",
+   "lines": false,
+   "file": "euvi_a.mp4",
+   "poster": "euvi_a.jpg",
+   "frames": 209,
+   "width": 768,
+   "height": 816,
+   "bytes": 2094826
+  },
+  {
+   "id": "all",
+   "name": "All panels",
+   "lines": false,
+   "file": "all.mp4",
+   "poster": "all.jpg",
+   "frames": 222,
+   "width": 1920,
+   "height": 1080,
+   "bytes": 13153435
+  },
+  {
+   "id": "aia94",
+   "name": "AIA 94 \u00c5",
+   "lines": true,
+   "file": "aia94.lines.mp4",
+   "poster": "aia94.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 17229134
+  },
+  {
+   "id": "aia131",
+   "name": "AIA 131 \u00c5",
+   "lines": true,
+   "file": "aia131.lines.mp4",
+   "poster": "aia131.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 15445023
+  },
+  {
+   "id": "aia171",
+   "name": "AIA 171 \u00c5",
+   "lines": true,
+   "file": "aia171.lines.mp4",
+   "poster": "aia171.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 15028695
+  },
+  {
+   "id": "aia193",
+   "name": "AIA 193 \u00c5",
+   "lines": true,
+   "file": "aia193.lines.mp4",
+   "poster": "aia193.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 13790049
+  },
+  {
+   "id": "aia211",
+   "name": "AIA 211 \u00c5",
+   "lines": true,
+   "file": "aia211.lines.mp4",
+   "poster": "aia211.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 13033869
+  },
+  {
+   "id": "aia304",
+   "name": "AIA 304 \u00c5",
+   "lines": true,
+   "file": "aia304.lines.mp4",
+   "poster": "aia304.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 17573018
+  },
+  {
+   "id": "aia335",
+   "name": "AIA 335 \u00c5",
+   "lines": true,
+   "file": "aia335.lines.mp4",
+   "poster": "aia335.lines.jpg",
+   "frames": 221,
+   "width": 768,
+   "height": 816,
+   "bytes": 16231095
+  },
+  {
+   "id": "aia1600",
+   "name": "AIA 1600 \u00c5",
+   "lines": true,
+   "file": "aia1600.lines.mp4",
+   "poster": "aia1600.lines.jpg",
+   "frames": 220,
+   "width": 768,
+   "height": 816,
+   "bytes": 13237615
+  },
+  {
+   "id": "hmi",
+   "name": "HMI magnetogram",
+   "lines": true,
+   "file": "hmi.lines.mp4",
+   "poster": "hmi.lines.jpg",
+   "frames": 222,
+   "width": 768,
+   "height": 816,
+   "bytes": 11585980
+  },
+  {
+   "id": "euvi_a",
+   "name": "STEREO-A EUVI 195 \u00c5",
+   "lines": true,
+   "file": "euvi_a.lines.mp4",
+   "poster": "euvi_a.lines.jpg",
+   "frames": 209,
+   "width": 768,
+   "height": 816,
+   "bytes": 12070778
+  },
+  {
+   "id": "all",
+   "name": "All panels",
+   "lines": true,
+   "file": "all.lines.mp4",
+   "poster": "all.lines.jpg",
+   "frames": 222,
+   "width": 1920,
+   "height": 1080,
+   "bytes": 46293028
+  }
+ ]
+}
