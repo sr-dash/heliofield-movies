@@ -32,6 +32,11 @@ python movies.py --page-only --out site   # only the gallery page and sitemap, f
 
 The `Movies` workflow runs on the 5th of each month: when a new rotation has been added to HelioField imagery (`--if-new`), it renders every frame afresh, encodes the movies and replaces the `site` branch, which GitHub Pages serves. Run it by hand with "force" to remake them anyway. The movies have their own repository so that their 270 MB is not redeployed with every day of images.
 
+## Branches
+
+- `main`: the code and workflows.
+- `site`: the published movies, posters and gallery page, as served. It is a single commit with no history, replaced whole by the workflow on each update, so the repository stays the size of what is on show instead of keeping every old file. It shares no history with `main` (GitHub calls them diverged) and is never merged into it; ignore any "Compare & pull request" banner for it.
+
 ## Credits
 
 Images: NASA/SDO and the AIA and HMI science teams; NASA STEREO/SECCHI. Field: HelioField PFSS from HMI rotation maps. Sunspot number: WDC-SILSO, Royal Observatory of Belgium. Please also cite [HelioField imagery](https://doi.org/10.5281/zenodo.23935774) and [HelioField](https://doi.org/10.5281/zenodo.23487231).
