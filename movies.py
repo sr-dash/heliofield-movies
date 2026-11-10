@@ -72,10 +72,13 @@ def get_json(url: str):
 def frame_days(imagery: str) -> list[dict]:
     """One day per rotation: the one nearest the rotation's middle."""
     from sunpy.coordinates.sun import carrington_rotation_time
-    dates = get_json(imagery + "index.json")["dates"]
+    idx = get_json(imagery + "index.json")
+    dates = idx["dates"]
+    # Older days are served by the archive site; the index says which.
+    archived, arc = set(idx.get("archived", [])), (idx.get("archive") or "").rstrip("/") + "/"
     best: dict[int, tuple[float, dict]] = {}
     for d in dates:
-        day = get_json(imagery + f"days/{d}/index.json")
+        day = get_json((arc if d in archived else imagery) + f"days/{d}/index.json")
         cr = day["cr"]
         mid = carrington_rotation_time(cr + 0.5).to_datetime().replace(tzinfo=timezone.utc)
         t = datetime.fromisoformat(day["map_time"].replace("Z", "+00:00"))
